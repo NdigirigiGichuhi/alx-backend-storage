@@ -1,3 +1,3 @@
-Project: NoSQL
+Project: NoSQL database
 Author: Ndigirigi Gichuhi
 
